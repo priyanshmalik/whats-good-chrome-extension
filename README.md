@@ -1,0 +1,1 @@
+This is your Chrome tells you the sentiment of the text youre reading. 
